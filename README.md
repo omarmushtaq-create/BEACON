@@ -1,6 +1,8 @@
 # BEACON
 All the code, cad, and PCB design for my low cost air quailty monitoring station.
 
+
+
 ## How to use
 
 1. First use the provided STEP file to create a 3d model of the case
@@ -12,3 +14,11 @@ All the code, cad, and PCB design for my low cost air quailty monitoring station
 7. Install the finished PCB into the case along with the solar panel and ZPH dust sensor and lithium ion batteries.
 8. Install it to a pole or fixture using zip ties.
 9. And your done! Now you can view and access your data from your influx DB dashboard.
+
+
+## Adding to larger network
+If you want to help contribute to the BEACON site at [https://beaconoffical.netlify.app/], email me at [mailto:beacon.offical2026@gmail.com]
+
+### If you have any ideas to improve the Code, Cad or PCB design make a pull request or email me. 
+
+
