@@ -2,6 +2,7 @@
 All the code, cad, and PCB design for my low cost air quailty monitoring station.
 
 
+<img width="1832" height="1506" alt="Untitled Design" src="https://github.com/user-attachments/assets/13ec2648-fa00-40ea-87fe-be1ce306298b" />
 
 ## How to use
 
