@@ -4,6 +4,10 @@ All the code, cad, and PCB design for my low cost air quailty monitoring station
 
 <img width="1832" height="1506" alt="Untitled Design" src="https://github.com/user-attachments/assets/13ec2648-fa00-40ea-87fe-be1ce306298b" />
 
+## Prerequisites
+
+1. You need to create an InfluxDB acount and Database. Here is a guide that will help you do this https://docs.influxdata.com/influxdb/v2/get-started/setup/
+
 ## How to use
 
 1. First use the provided STEP file to create a 3d model of the case
