@@ -11,7 +11,7 @@
 #define INFLUX_BUCKET "Enter INFLUX Bucket"
 //This is the public token for public facing users
 #define INFLUX_TOKEN "OKWRyprjj_oX3PjQimaZ-9Vdgke-axpUmChOOew1s-xTWMn6C4i--xRUHcspdPrYlS4XR84Ifxbm11CFvuvtDQ=="
-// A unique name for this sensor so you can tell devices apart in the data
+// A unique name for this sensor so you can tell devices apart in the data !! YOU MUST CHANGE THIS TO A UNIQUE NAME. CHECK THE README FOR THE NAME YOU SHOULD ENTER!!
 #define DEVICE_NAME   "Sensor name (default sheme is sensor_xx)"
 
 #endif
