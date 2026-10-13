@@ -197,7 +197,7 @@ void setup() {
         Serial.println("\nWi-Fi not connected yet, will keep retrying in the background.");
     }
 
-    sensorData.addTag("device", "esp32_node_01");
+    sensorData.addTag("device", DEVICE_NAME);
     client.setInsecure();
 
     // Verify server connection (only possible when Wi-Fi is up)
