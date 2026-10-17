@@ -1,28 +1,30 @@
 Item Name,Qty,Price (total) (USD),Item link,Notes
-PCB,5,$5.30,https://kommodo.ai/i/UPFC1kRoueUmUvuF1h01,This is the base PCB with no components (The link is just to a screenshot of the order page)
-10uF capacitor,1,$0.05,https://us.rs-online.com/product/kemet/c0805c106k8pactu/70095566/,This is a SMD capacitor for the pcb
-100nf capacitor,8,$0.80,https://www.mouser.com/en/ProductDetail/Wurth-Elektronik/885012207072?qs=0KOYDY2FL28rQMV4504TxA%3D%3D&mgh=1,This is a SMD capacitor for the pcb
-10nf capacitor,1,$0.02,https://us.rs-online.com/product/wurth-elektronik/885012206014/71070548/,This is a SMD capacitor for the pcb
-Schottky diode,2,$0.50,https://www.jameco.com/webapp/wcs/stores/servlet/OrderItemDisplay?catalogId=10001&langId=-1&storeId=10001&krypto=Ly5o4ODD5uYPRfhjGXw%2BEseIm5V5hhlGYaeG%2BA3nVjn%2BCvTfDn%2FFhNVwza4i9G5K1unmq74a9vp%2B1%2BJ4QmpI9VGcGiV8ESKiyFBlrf1DiDohQpXFwbQx0fYKhbpLczTJPn5aUGO6RJjWZtquovc3MIo3RVL2e%2FbThHrnIDpyXUxi7RTZW7%2FJH5p2JfVw%2BSXraxLuomT7eBSuTwBgeKNpZ34O3iuIlC%2FfMf5GOapwAQs%3D&ddkey=https%3AOrderItemAdd,Diode for the pcb
-LED,2,$0.38,https://www.digikey.com/en/products/detail/lite-on-inc/LTL-307EE/140833,LED for diognostics
-USB-C connector,1,$0.39,https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/UJ20-C-H-G-SMT-2A-P16-TR/28173573,USB-C reciprocal
-NPN Transistor,3,$0.20,https://www.digikey.com/en/products/detail/umw/MMBT2222A/26765910,Transistor for the pcb
-P-Channel MOSFET,1,$0.52,https://www.digikey.com/en/products/detail/alpha-omega-semiconductor-inc/AO3401A/1855773,MOSFET for PCB
-10k resistors,6,$0.06,https://metastech.com/products/resistor-0805-smd?variant=51454749835577&country=LB&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic,Resistors for PCB
-330 ohm resistors,2,$0.02,https://www.te.com/en/product-1-2176342-6.html,Resistors for PCB
-5.1k resistors,2,$0.20,https://www.digikey.com/en/products/detail/yageo/RT0603FRE075K1L/1075435,Resistors for PCB
-4.7k resistors,2,$0.20,https://www.digikey.com/en/products/detail/yageo/RT0603DRE074K7L/1074894,Resistors for PCB
-1k resistors,1,$0.10,https://www.digikey.com/en/products/detail/susumu/RG2012P-102-D-T5/1269067,Resistors for PCB
-Push buttons,2,$0.28,https://www.utmel.com/productdetail/ck-pts645sm702lfs-8581040?cf_challenge_verified=MjYwMToxODM6NTI4MTo1MTUwOmNlNjpmNjA4OmNkM2M6NDg2ZHwxNzkxOTI3Mjc0fC1kNG56bnl8U1BaOW5kaG02NlFMUWdubjl3V1gzMGR0dDFuS0NvVndLNzhxNUZWY1VCNA,Buttons for PCB
-Voltage Regulator,1,$0.62,https://www.digikey.com/en/products/detail/onsemi/NCP1117ST33T3G/1749063,The PCBs 5v - 3.3v voltage regulator
-ESP32-WROOM-32,1,$2.11,https://srituhobby.com/product/esp32-wroom-32-chip-4mb-8mb-16mb/,The main microcontroler/brain
-USB to UART converter,1,$0.41,https://electropeak.com/ch340c-usb-interface-ic,USB-C to UART converter
-SHT30 ,1,$0.95,https://electropeak.com/sht30-digital-temperature-and-humidity-sensor,Temp Sensor
-Case,1,$15.00,,This is a estamate based on the cost of PETG filament that is needed for the waterproofing + fees for using the local 3d printers
-Li-ion batteies,2,$5.50,https://unitedlithium.us/products/samsung-inr21700-50e-5000mah-21700-battery-high-capacity?variant=42701737427006&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic,Li-Ion batteries for holding charge
-Solar pannel,1,$1.33,https://electropeak.com/6v-1w-solar-panel,Solar Pannel
+PCB,5,$5.30 ,https://kommodo.ai/i/UPFC1kRoueUmUvuF1h01,This is the base PCB with no components (The link is just to a screenshot of the order page)
+10uF capacitor,1,$0.05 ,https://us.rs-online.com/product/kemet/c0805c106k8pactu/70095566/,This is a SMD capacitor for the pcb
+100nf capacitor,8,$0.80 ,https://www.mouser.com/en/ProductDetail/Wurth-Elektronik/885012207072?qs=0KOYDY2FL28rQMV4504TxA%3D%3D&mgh=1,This is a SMD capacitor for the pcb
+10nf capacitor,1,$0.02 ,https://us.rs-online.com/product/wurth-elektronik/885012206014/71070548/,This is a SMD capacitor for the pcb
+Schottky diode,2,$0.50 ,https://www.jameco.com/webapp/wcs/stores/servlet/OrderItemDisplay?catalogId=10001&langId=-1&storeId=10001&krypto=Ly5o4ODD5uYPRfhjGXw%2BEseIm5V5hhlGYaeG%2BA3nVjn%2BCvTfDn%2FFhNVwza4i9G5K1unmq74a9vp%2B1%2BJ4QmpI9VGcGiV8ESKiyFBlrf1DiDohQpXFwbQx0fYKhbpLczTJPn5aUGO6RJjWZtquovc3MIo3RVL2e%2FbThHrnIDpyXUxi7RTZW7%2FJH5p2JfVw%2BSXraxLuomT7eBSuTwBgeKNpZ34O3iuIlC%2FfMf5GOapwAQs%3D&ddkey=https%3AOrderItemAdd,Diode for the pcb
+LED,2,$0.38 ,https://www.digikey.com/en/products/detail/lite-on-inc/LTL-307EE/140833,LED for diognostics
+USB-C connector,1,$0.39 ,https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/UJ20-C-H-G-SMT-2A-P16-TR/28173573,USB-C reciprocal
+NPN Transistor,3,$0.20 ,https://www.digikey.com/en/products/detail/umw/MMBT2222A/26765910,Transistor for the pcb
+P-Channel MOSFET,1,$0.52 ,https://www.digikey.com/en/products/detail/alpha-omega-semiconductor-inc/AO3401A/1855773,MOSFET for PCB
+10k resistors,6,$0.06 ,https://metastech.com/products/resistor-0805-smd?variant=51454749835577&country=LB&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic,Resistors for PCB
+330 ohm resistors,2,$0.02 ,https://www.te.com/en/product-1-2176342-6.html,Resistors for PCB
+5.1k resistors,2,$0.20 ,https://www.digikey.com/en/products/detail/yageo/RT0603FRE075K1L/1075435,Resistors for PCB
+4.7k resistors,2,$0.20 ,https://www.digikey.com/en/products/detail/yageo/RT0603DRE074K7L/1074894,Resistors for PCB
+1k resistors,1,$0.10 ,https://www.digikey.com/en/products/detail/susumu/RG2012P-102-D-T5/1269067,Resistors for PCB
+Push buttons,2,$0.28 ,https://www.utmel.com/productdetail/ck-pts645sm702lfs-8581040?cf_challenge_verified=MjYwMToxODM6NTI4MTo1MTUwOmNlNjpmNjA4OmNkM2M6NDg2ZHwxNzkxOTI3Mjc0fC1kNG56bnl8U1BaOW5kaG02NlFMUWdubjl3V1gzMGR0dDFuS0NvVndLNzhxNUZWY1VCNA,Buttons for PCB
+Voltage Regulator,1,$0.62 ,https://www.digikey.com/en/products/detail/onsemi/NCP1117ST33T3G/1749063,The PCBs 5v - 3.3v voltage regulator
+ESP32-WROOM-32,1,$2.11 ,https://srituhobby.com/product/esp32-wroom-32-chip-4mb-8mb-16mb/,The main microcontroler/brain
+USB to UART converter,1,$0.41 ,https://electropeak.com/ch340c-usb-interface-ic,USB-C to UART converter
+SHT30 ,1,$0.95 ,https://electropeak.com/sht30-digital-temperature-and-humidity-sensor,Temp Sensor
+Case,1,$15.00 ,,This is a estamate based on the cost of PETG filament that is needed for the waterproofing + fees for using the local 3d printers
+Li-ion batteies,2,$5.50 ,https://unitedlithium.us/products/samsung-inr21700-50e-5000mah-21700-battery-high-capacity?variant=42701737427006&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic,Li-Ion batteries for holding charge
+Solar pannel,1,$1.33 ,https://electropeak.com/6v-1w-solar-panel,Solar Pannel
 "ZPH04B Particles Sensor
-",1,$7.86,https://shop.winsen-sensor.com/products/zph04b-particles-sensor?variant=45502013178048,Dust Sensor
+",1,$7.86 ,https://shop.winsen-sensor.com/products/zph04b-particles-sensor?variant=45502013178048,Dust Sensor
 Solar pannel power manager,1,8.99,https://www.waveshare.com/product/modules/solar-power-manager.htm,To help create a stable voltage stream
-Shipping,,$20.00,,This is the colect total of what it will cost to ship everything to my house
-Total Price (USD):,$71.79,,,
+Heat set insterts,4,$9.75 ,https://www.walmart.com/ip/Uxcell-50-Pack-Threaded-Inserts-M3-x-8mm-Brass-Heat-Set-Insert-Nuts-5mm-OD/17007374032?wmlspartner=wlpa&selectedSellerId=571&selectedOfferId=1838A9438F123352A420BF8CEBE6893F&conditionGroupCode=1&veh=seo_fpl&cn=google,To make threads for the screws
+screws +Nuts,8,$15 ,,"The cost of buying the correct sized skews and bolts at my local hardwear store. The sizes are (4 M3x8mm screws, 4 3.2mmx11mm screws and 4 3.2mmx11mm hex nut)"
+Shipping,,$20.00 ,,This is the colect total of what it will cost to ship everything to my house
+Total Price (USD):,$96.54 ,,,
