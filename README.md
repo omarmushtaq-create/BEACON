@@ -14,7 +14,7 @@ All the code, cad, and PCB design for my low cost air quailty monitoring station
 2. Use whatever fabrication method you would prefer (3d printing, CNC, Woodworking, Pottery, Blacksmithing etc) to create the case. Just make sure that it is water tight.
 3. Use the provided PCB schematics in your PCB design software of choice and create the necessary gbr and drl files to get the PCB made by a chosen PCB manufacturer (I would recommend either PCBway or JLBPCB)
 4. Buy and solder the components or use PCBA serveries to have your manufacturer assemble them for you
-5. Install the Solar Panel Power Manager (SPPM), the ZPH02 sensor and the solar panel in the correct positions. For the solar panel you will need to solder jumpers from the + and - out terminals to the + and - in terminals of the SPPM. Connect the the 5v and GND out of the SPPM to the 2 pin connector on the board. Then connect the ZHP02 pinouts to the 5pin input on the PCB. (You can see a basic flow in /Assets/Wire_Diagarm.drawio.png). To make sure you have connected all the pins to the correct place you can reference the schematic at /PCB/Tutorial.kicad_pcb
+5. Install the Solar Panel Power Manager (SPPM), the ZPH02 sensor and the solar panel in the correct positions. For the solar panel you will need to solder jumpers from the + and - out terminals to the + and - in terminals of the SPPM. Connect the the 5v and GND out of the SPPM to the 2 pin connector on the board. Then connect the ZHP02 pinouts to the 5pin input on the PCB. (You can see a basic flow in /Assets/Wire_Diagarm.drawio.png). To make sure you have connected all the pins to the correct place you can reference the schematic at /PCB/BEACON.kicad_pcb
 6. Update the config.h file in /Firmware/include/config.h and add you wifi SSID, Password and add a new device name (The device name you should not enter at this point are *esp32_node_01*). This allows the data to be sent to the central server and displayed on the website. 
 7. Upload the modified code provided to the PCB.
 8. Install the finished PCB into the case along with the solar panel and ZPH dust sensor and lithium ion batteries.
@@ -26,7 +26,7 @@ All the code, cad, and PCB design for my low cost air quailty monitoring station
 ## Adding to larger network
 If you want to help contribute to the BEACON site at https://beaconoffical.netlify.app/, email me at beacon.offical2026@gmail.com
 
-[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Fomarmushtaq-create%2FBEACON%2Fblob%2Fmain%2FPCB%2FTutorial.kicad_pcb)
+[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Fomarmushtaq-create%2FBEACON%2Fblob%2Fmain%2FPCB%2FBEACON.kicad_pcb)
 
 ### If you have any ideas to improve the Code, Cad or PCB design email me!
 
