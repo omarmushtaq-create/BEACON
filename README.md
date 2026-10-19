@@ -23,7 +23,7 @@ All the code, cad, and PCB design for my low cost air quailty monitoring station
 
 
 
-## Adding to larger network
+## Adding to BEACON
 If you want to help contribute to the BEACON site at https://beaconoffical.netlify.app/, email me at beacon.offical2026@gmail.com
 
 [![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Fomarmushtaq-create%2FBEACON%2Fblob%2Fmain%2FPCB%2FBEACON.kicad_pcb)
