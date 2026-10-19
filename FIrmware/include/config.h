@@ -12,6 +12,6 @@
 #define INFLUX_TOKEN "OKWRyprjj_oX3PjQimaZ-9Vdgke-axpUmChOOew1s-xTWMn6C4i--xRUHcspdPrYlS4XR84Ifxbm11CFvuvtDQ=="
 
 // A unique name for this sensor so you can tell devices apart in the data !! YOU MUST CHANGE THIS TO A UNIQUE NAME. CHECK THE README FOR THE NAMES YOU SHOULD NOT ENTER!!
-#define DEVICE_NAME   "Sensor name (default sheme is sensor_xx)"
+#define DEVICE_NAME   "Sensor name (default scheme is sensor_xx)"
 
 #endif
